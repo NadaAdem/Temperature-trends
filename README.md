@@ -6,8 +6,8 @@ The purpose of this project is to analysis temperature trends before opening the
 
 
 ## Resources and Software
-Data : hawaii.sqlite
-Software :Python 3.7.10
+- Data : hawaii.sqlite
+- Software :Python 3.7.10
 SQLAlchemy 1.4.1
 
 ## Results
