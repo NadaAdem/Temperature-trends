@@ -15,7 +15,7 @@ SQLAlchemy 1.4.1
 
 - The average temperature in Oahu during December(71°F) is only 3.9°F cooler than June (74.9°F)
 - The lowest temperature in December (56°F)  is 8°F colder than the lowest temperature in June (64°F).
-- There are less data points in December(1517) than June (1700).
+- There are less data points in December than June .
 
 
 Statistical summary for  Temperature the month of June in Oahu  
