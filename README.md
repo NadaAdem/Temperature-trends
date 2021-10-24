@@ -32,14 +32,16 @@ for get  Two additional queries on June and December to obatin more weather data
 
 The query below will find precipitation scores in June:
 
+```
 session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
 
+```
 
 ![This is an image](https://github.com/NadaAdem/Surfs_up/blob/main/Resources/Dec_temp.png)
 
 
 The query below will find precipitation scores in December:
-
+```
 session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 12).all()
-
+```
 ![This is an image](https://github.com/NadaAdem/Surfs_up/blob/main/Resources/Dec_temp.png)
