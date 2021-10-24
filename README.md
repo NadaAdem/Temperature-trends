@@ -11,7 +11,7 @@ Software :Python 3.7.10
 SQLAlchemy 1.4.1
 
 ## Results
-# Three key differences in weather between June and December
+### Three key differences in weather between June and December
 
 - The average temperature in Oahu during December(71°F) is only 3.9°F cooler than June (74.9°F)
 - The lowest temperature in December (56°F)  is 8°F colder than the lowest temperature in June (64°F).
