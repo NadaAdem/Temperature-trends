@@ -41,6 +41,8 @@ The query below will find precipitation scores in June:
 session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
 ```
 
+Statistical summary for  precipitation scores in June:
+
 ![This is an image](https://github.com/NadaAdem/Surfs_up/blob/main/Resources/june_prec.png)
 
 
@@ -49,4 +51,6 @@ The query below will find precipitation scores in December:
 ```
 session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 12).all()
 ```
+Statistical summary for  precipitation scores in December
+
 ![This is an image](https://github.com/NadaAdem/Surfs_up/blob/main/Resources/december_prec.png)
