@@ -1,4 +1,4 @@
-# Temperature Trends for Surf shop in Oahu
+# Temperature Trends for New Business
 
 ## Overview of the analysis
 
